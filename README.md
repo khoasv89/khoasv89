@@ -1,9 +1,7 @@
 ### Hi there 👋
 
 
-**khoasv89/khoasv89** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+**khoasv89/khoasv89**
 
 - 🔭 I’m currently working on QA Engineer
 - 🌱 I’m currently learning developer skills
